@@ -21,15 +21,6 @@ This project was completed as part of the **Kadenze Max course**.
 
 ---
 
-## How to Use
-
-1. Load the main patch in Max/MSP.  
-2. Connect your Elektron Octatrack via MIDI and set it up to send notes and CCs on the configured MIDI channels.  
-3. Use the Octatrack to trigger and sequence each drum machine and adjust parameters in real-time.  
-4. If you don’t have an Octatrack, you can send MIDI notes manually to each machine's MIDI inlet to test the sounds.  
-
----
-
 ## Demo Video
 
 https://youtu.be/7P9wHBFMhxE
